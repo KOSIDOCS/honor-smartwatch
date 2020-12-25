@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/honor-smartwatch/static/css/main.5e510a2b.chunk.css",
+    "main.js": "/honor-smartwatch/static/js/main.ecba9c42.chunk.js",
+    "main.js.map": "/honor-smartwatch/static/js/main.ecba9c42.chunk.js.map",
+    "runtime-main.js": "/honor-smartwatch/static/js/runtime-main.f1bee297.js",
+    "runtime-main.js.map": "/honor-smartwatch/static/js/runtime-main.f1bee297.js.map",
+    "static/css/2.109aacae.chunk.css": "/honor-smartwatch/static/css/2.109aacae.chunk.css",
+    "static/js/2.3bf4b17e.chunk.js": "/honor-smartwatch/static/js/2.3bf4b17e.chunk.js",
+    "static/js/2.3bf4b17e.chunk.js.map": "/honor-smartwatch/static/js/2.3bf4b17e.chunk.js.map",
+    "static/js/3.5ac57dca.chunk.js": "/honor-smartwatch/static/js/3.5ac57dca.chunk.js",
+    "static/js/3.5ac57dca.chunk.js.map": "/honor-smartwatch/static/js/3.5ac57dca.chunk.js.map",
+    "index.html": "/honor-smartwatch/index.html",
+    "static/css/2.109aacae.chunk.css.map": "/honor-smartwatch/static/css/2.109aacae.chunk.css.map",
+    "static/css/main.5e510a2b.chunk.css.map": "/honor-smartwatch/static/css/main.5e510a2b.chunk.css.map",
+    "static/js/2.3bf4b17e.chunk.js.LICENSE.txt": "/honor-smartwatch/static/js/2.3bf4b17e.chunk.js.LICENSE.txt",
+    "static/media/blanco 1.4b7a4b19.png": "/honor-smartwatch/static/media/blanco 1.4b7a4b19.png",
+    "static/media/dark 1.f0258230.png": "/honor-smartwatch/static/media/dark 1.f0258230.png",
+    "static/media/smartwaatch 4.52aa341a.png": "/honor-smartwatch/static/media/smartwaatch 4.52aa341a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1bee297.js",
+    "static/css/2.109aacae.chunk.css",
+    "static/js/2.3bf4b17e.chunk.js",
+    "static/css/main.5e510a2b.chunk.css",
+    "static/js/main.ecba9c42.chunk.js"
+  ]
+}
